@@ -3,6 +3,8 @@
 A real-time ride-hailing web application that allows users to book rides and captains (drivers) to accept or reject ride requests instantly. Built using the **MERN Stack (MongoDB, Express.js, React, Node.js)** with **Socket.IO**, **JWT-based authentication**, and **Google Maps API** for live tracking and routing.
 
 ---
+## Demo 
+ https://github.com/user-attachments/assets/a7dc0735-9670-4cfe-ba36-36248de06492
 
 ## 🔥 Features
 
